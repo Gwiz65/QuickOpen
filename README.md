@@ -1,5 +1,5 @@
 # QuickOpen
-A Wurm Unlimited Client Mod that opens containers with a double-click.
+A Wurm Unlimited Client Mod that opens containers when double-clicked.
 
 - Needs Ago's Client ModLauncher installed.
 - Extract quickopen-x.x.zip into WurmLauncher directory.
