@@ -5,7 +5,7 @@ A Wurm Unlimited Client Mod that opens containers when double-clicked.
 - Extract quickopen-x.x.zip into WurmLauncher directory.
 
 - QuickOpen features:
-  - Opens up containers in addition to the default Examine when mouse is double-clicked.
+  - Opens up containers in addition to the default Examine when the container is double-clicked.
   - Will open up saddlebags when horse is double-clicked
 
 
