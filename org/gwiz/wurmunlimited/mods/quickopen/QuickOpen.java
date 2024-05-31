@@ -55,7 +55,7 @@ public class QuickOpen implements WurmClientMod, Initable, Versioned {
 			ctWurmEventHandler.getDeclaredMethod("mousePressed").instrument(new ExprEditor() {
 				public void edit(MethodCall methodCall) throws CannotCompileException {
 					if (methodCall.getMethodName().equals("sendDefaultAction")) {
-						methodCall.replace("{ $_ = $proceed($$); this.world.getHud().sendAction(com."
+						methodCall.replace("{ this.world.getHud().sendAction(com."
 								+ "wurmonline.shared.constants.PlayerAction.OPEN, $1); }");
 					}
 				}
