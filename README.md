@@ -10,6 +10,13 @@ A Wurm Unlimited Client Mod that replaces the default double-click action with "
   - Will open equipped saddlebags when horse is double-clicked.
   - Replaces the default action only for double mouse clicks. Default actions still available on left-click menus and action toolbar.
 
+- **Console Commands:**
+
+| Command | Description |
+| :--- | :--- |
+| quickopen on | enables QuickOpen (default) |
+| quickopen off | disables QuickOpen |
+| quickopen toggle | toggles QuickOpen on/off |
 
 - **Release Notes:**
   - Release 1.0 - Initial release
