@@ -4,7 +4,7 @@ A Wurm Unlimited Client Mod that replaces the default double-click action with "
 - Needs Ago's Client ModLauncher installed.
 - Extract quickopen-x.x.zip into WurmLauncher directory.
 
-- QuickOpen features:
+- **QuickOpen features:**
   - When active, will open up containers when the container is double-clicked. Does nothing on non-containers.
   - When deactivated, double clicks are the normal default action, usually "Examine" or "Target Hostile".
   - Will open equipped saddlebags when horse is double-clicked.
